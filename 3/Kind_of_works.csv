@@ -1,0 +1,11 @@
+ID_work,Name,Duration,Cost
+1,"Little fix","00-10-00",9.99
+2,"Small fix","00-20-00",29.99
+3,"More than small fix","00-35-00",59.99
+4,"Middle fix","01-00-00",99.99
+5,"More than Middle fix","01-15-00",249.99
+6,"Big fix","02-30-00",499.99
+7,"More than big fix","03-00-00",749.99
+8,"Great fix","04-45-00",799.99
+9,"More than great fix","05-50-00",9999.99
+10,"Foobar fix","20-30-00",14999.99
